@@ -78,3 +78,30 @@
 
 // }
 
+// For...Of Loops are good for use on OBJECTS
+// const str = "Hello World";
+
+// for (const c of str) {
+//     console.log(c);
+// }
+
+// const cars = ['Audi', 'Honda', 'Ford', 'Acura'];
+
+// for(const c of cars){
+//     console.log(c);
+// }
+
+// const str = "Hello World";
+
+// for (const i in str) {
+//     console.log(typeof i);
+// }
+
+// DO WHILE LOOP
+
+let x=10;
+
+do {
+    x--;
+    console.log(x);
+} while (x > 50);
